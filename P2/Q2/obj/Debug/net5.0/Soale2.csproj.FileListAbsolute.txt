@@ -1,0 +1,16 @@
+d:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.exe
+D:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.deps.json
+D:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.runtimeconfig.json
+D:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.runtimeconfig.dev.json
+d:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.dll
+D:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\ref\Soale2.dll
+d:\uni\nazarie\Project\p2\Soale2\bin\Debug\net5.0\Soale2.pdb
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.csprojAssemblyReference.cache
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.GeneratedMSBuildEditorConfig.editorconfig
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.AssemblyInfoInputs.cache
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.AssemblyInfo.cs
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.csproj.CoreCompileInputs.cache
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.dll
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\ref\Soale2.dll
+d:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.pdb
+D:\uni\nazarie\Project\p2\Soale2\obj\Debug\net5.0\Soale2.genruntimeconfig.cache
